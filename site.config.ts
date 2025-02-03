@@ -20,7 +20,7 @@ export default siteConfig({
   twitter: 'JOduMonTreal',
   github: 'JOduMonT',
   linkedin: 'JOduMonT',
-  // mastodon: '#', // optional mastodon profile URL, provides link verification
+  mastodon: 'https://mastodon.social/@jodumontreal',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
